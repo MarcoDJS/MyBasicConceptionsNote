@@ -1,1 +1,2 @@
 # MyBasicConceptionsNote
+这里存放了一些我学习基础概念的笔记，若要查看请切换分支
